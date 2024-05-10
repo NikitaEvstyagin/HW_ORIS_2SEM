@@ -9,7 +9,7 @@ const SearchPage = () => {
     const [allPokemons, setAllPokemons] = useState([])
     const [searchResults, setSearchResults] = useState([]);
     const [searchText, setSearchText] = useState('');
-    const [isSearching, setSearching] = useState(false)
+    const [isSearching, setAsSearching] = useState(false)
     const [offset, setOffset] = useState(0);
     const [fetching, setFetching] = useState(true)
 
