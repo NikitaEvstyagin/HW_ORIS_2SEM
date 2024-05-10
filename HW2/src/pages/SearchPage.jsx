@@ -67,10 +67,18 @@ const SearchPage = () => {
         fetch(pokemon.url)
             .then(response => response.json())
             .then(pokemonData => {
-                    setAllPokemons(prevAllPokemons => ({
-                        ...prevAllPokemons,
-                        [pokemonData.id]: pokemonData
-                    }))
+                    if (searchText && pokemonData.name.includes(searchText.toLowerCase())) {
+                        setSearchResults(prevAllPokemons => ({
+                            ...prevAllPokemons,
+                            [pokemonData.id]: pokemonData
+                        }))
+                    } else {
+                        setAllPokemons(prevAllPokemons => ({
+                            ...prevAllPokemons,
+                            [pokemonData.id]: pokemonData
+                        }));
+                    }
+
                 }
             )
             .catch(error => console.error('Error fetching data for', pokemon.name, ':', error))
@@ -81,18 +89,23 @@ const SearchPage = () => {
     };
 
     const handleSubmit = () => {
+        setAsSearching(true)
         if (searchText) {
-            setSearching(true)
             let results = Object.values(allPokemons).filter(pokemon =>
                 pokemon.name.includes(searchText.toLowerCase()))
             setSearchResults(results)
         } else {
-            setSearching(false)
             setSearchResults([])
+            setAllPokemons([])
+            setAsSearching(false)
+            setFetching(true)
+            setOffset(0)
         }
-
-        console.log(searchResults)
     };
+
+    useEffect(() => {
+        checkIfFetchingNeeded();
+    }, [searchResults]);
 
     return (
         <>
