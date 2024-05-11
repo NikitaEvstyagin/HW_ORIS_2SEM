@@ -1,0 +1,17 @@
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/bin/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.deps.json
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/bin/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.runtimeconfig.json
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/bin/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/bin/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.pdb
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/bin/Debug/net8.0/PokemonAPI.Core.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/bin/Debug/net8.0/PokemonAPI.Core.pdb
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.csproj.AssemblyReference.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.AssemblyInfoInputs.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.AssemblyInfo.cs
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.csproj.CoreCompileInputs.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.csproj.CopyComplete
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/refint/PokemonAPI.DAL.PostgreSQL.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.pdb
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/PokemonAPI.DAL.PostgreSQL.genruntimeconfig.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/Debug/net8.0/ref/PokemonAPI.DAL.PostgreSQL.dll

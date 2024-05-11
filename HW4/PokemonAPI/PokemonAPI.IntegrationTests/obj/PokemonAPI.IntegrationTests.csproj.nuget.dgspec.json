@@ -1,0 +1,354 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.IntegrationTests/PokemonAPI.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/PokemonAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/PokemonAPI.Core.csproj",
+        "projectName": "PokemonAPI.Core",
+        "projectPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/PokemonAPI.Core.csproj",
+        "packagesPath": "/home/nikita/.nuget/packages/",
+        "outputPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikita/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/PokemonAPI.DAL.PostgreSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/PokemonAPI.DAL.PostgreSQL.csproj",
+        "projectName": "PokemonAPI.DAL.PostgreSQL",
+        "projectPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/PokemonAPI.DAL.PostgreSQL.csproj",
+        "packagesPath": "/home/nikita/.nuget/packages/",
+        "outputPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikita/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/PokemonAPI.Core.csproj": {
+                "projectPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/PokemonAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.IntegrationTests/PokemonAPI.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.IntegrationTests/PokemonAPI.IntegrationTests.csproj",
+        "projectName": "PokemonAPI.IntegrationTests",
+        "projectPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.IntegrationTests/PokemonAPI.IntegrationTests.csproj",
+        "packagesPath": "/home/nikita/.nuget/packages/",
+        "outputPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.IntegrationTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikita/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI/PokemonAPI.csproj": {
+                "projectPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI/PokemonAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.33, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI/PokemonAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI/PokemonAPI.csproj",
+        "projectName": "PokemonAPI",
+        "projectPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI/PokemonAPI.csproj",
+        "packagesPath": "/home/nikita/.nuget/packages/",
+        "outputPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikita/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/PokemonAPI.Core.csproj": {
+                "projectPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/PokemonAPI.Core.csproj"
+              },
+              "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/PokemonAPI.DAL.PostgreSQL.csproj": {
+                "projectPath": "/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.PostgreSQL/PokemonAPI.DAL.PostgreSQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

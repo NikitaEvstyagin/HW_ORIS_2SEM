@@ -1,0 +1,14 @@
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/bin/Debug/net8.0/PokemonAPI.Core.deps.json
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/bin/Debug/net8.0/PokemonAPI.Core.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/bin/Debug/net8.0/PokemonAPI.Core.pdb
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/PokemonAPI.Core.csproj.AssemblyReference.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/PokemonAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/PokemonAPI.Core.AssemblyInfoInputs.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/PokemonAPI.Core.AssemblyInfo.cs
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/PokemonAPI.Core.csproj.CoreCompileInputs.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/PokemonAPI.Core.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/refint/PokemonAPI.Core.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/PokemonAPI.Core.pdb
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/ref/PokemonAPI.Core.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/bin/Debug/net8.0/PokemonAPI.Core.runtimeconfig.json
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.Core/obj/Debug/net8.0/PokemonAPI.Core.genruntimeconfig.cache

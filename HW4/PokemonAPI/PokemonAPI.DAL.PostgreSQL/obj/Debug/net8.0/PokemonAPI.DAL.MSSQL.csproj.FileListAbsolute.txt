@@ -1,0 +1,17 @@
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/bin/Debug/net8.0/PokemonAPI.DAL.MSSQL.deps.json
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/bin/Debug/net8.0/PokemonAPI.DAL.MSSQL.runtimeconfig.json
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/bin/Debug/net8.0/PokemonAPI.DAL.MSSQL.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/bin/Debug/net8.0/PokemonAPI.DAL.MSSQL.pdb
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/bin/Debug/net8.0/PokemonAPI.Core.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/bin/Debug/net8.0/PokemonAPI.Core.pdb
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.csproj.AssemblyReference.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.AssemblyInfoInputs.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.AssemblyInfo.cs
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.csproj.CoreCompileInputs.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.csproj.CopyComplete
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/refint/PokemonAPI.DAL.MSSQL.dll
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.pdb
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/PokemonAPI.DAL.MSSQL.genruntimeconfig.cache
+/home/nikita/RiderProjects/WebApplication1/PokemonAPI/PokemonAPI.DAL.MSSQL/obj/Debug/net8.0/ref/PokemonAPI.DAL.MSSQL.dll
