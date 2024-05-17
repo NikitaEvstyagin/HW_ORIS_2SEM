@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iE3G7p/5rwCcjtdG/t1Wpc8AMv5SY+kRmdecT9UV+Y0=",
+  "Hash": "q5ohGpfKZ4pT1f40FOzMv54J0z1+VZ9/gwklfs/y6Vs=",
   "Source": "TeamHost",
   "BasePath": "_content/TeamHost",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "TeamHost\\wwwroot",
+      "Name": "TeamHost/wwwroot",
       "Source": "TeamHost",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TeamHost.styles.css",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/obj/Debug/net7.0/scopedcss/bundle/TeamHost.styles.css",
       "SourceId": "TeamHost",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "TeamHost.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TeamHost.styles.css"
+      "OriginalItemSpec": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/obj/Debug/net7.0/scopedcss/bundle/TeamHost.styles.css"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TeamHost.bundle.scp.css",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/obj/Debug/net7.0/scopedcss/projectbundle/TeamHost.bundle.scp.css",
       "SourceId": "TeamHost",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "TeamHost.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TeamHost.bundle.scp.css"
+      "OriginalItemSpec": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/obj/Debug/net7.0/scopedcss/projectbundle/TeamHost.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\css\\libs.min.css",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/css/libs.min.css",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "css/libs.min.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\libs.min.css"
+      "OriginalItemSpec": "wwwroot/css/libs.min.css"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\css\\main.css",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/css/main.css",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\main.css"
+      "OriginalItemSpec": "wwwroot/css/main.css"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\css\\maps\\main.css.map",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/css/maps/main.css.map",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "css/maps/main.css.map",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\maps\\main.css.map"
+      "OriginalItemSpec": "wwwroot/css/maps/main.css.map"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\css\\showcase.css",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/css/showcase.css",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "css/showcase.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\showcase.css"
+      "OriginalItemSpec": "wwwroot/css/showcase.css"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\icons.eot",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/icons.eot",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/icons.eot",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icons.eot"
+      "OriginalItemSpec": "wwwroot/fonts/icons.eot"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\icons.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/icons.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/icons.svg",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icons.svg"
+      "OriginalItemSpec": "wwwroot/fonts/icons.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\icons.ttf",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/icons.ttf",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/icons.ttf",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icons.ttf"
+      "OriginalItemSpec": "wwwroot/fonts/icons.ttf"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\icons.woff",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/icons.woff",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/icons.woff",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icons.woff"
+      "OriginalItemSpec": "wwwroot/fonts/icons.woff"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\icons.woff2",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/icons.woff2",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/icons.woff2",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icons.woff2"
+      "OriginalItemSpec": "wwwroot/fonts/icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-Bold.woff",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-Bold.woff",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-Bold.woff",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-Bold.woff"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-Bold.woff2",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-Bold.woff2",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-Bold.woff2",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-Bold.woff2"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-BoldItalic.woff",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-BoldItalic.woff",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-BoldItalic.woff",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-BoldItalic.woff"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-BoldItalic.woff"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-BoldItalic.woff2",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-BoldItalic.woff2",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-BoldItalic.woff2",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-BoldItalic.woff2"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-BoldItalic.woff2"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-Italic.woff",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-Italic.woff",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-Italic.woff",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-Italic.woff"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-Italic.woff"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-Italic.woff2",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-Italic.woff2",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-Italic.woff2",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-Italic.woff2"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-Italic.woff2"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-Light.woff",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-Light.woff",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-Light.woff",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-Light.woff"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-Light.woff2",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-Light.woff2",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-Light.woff2",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-Light.woff2"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-SemiBold.woff",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-SemiBold.woff",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-SemiBold.woff",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-SemiBold.woff"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-SemiBold.woff"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI-SemiBold.woff2",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI-SemiBold.woff2",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI-SemiBold.woff2",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI-SemiBold.woff2"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI-SemiBold.woff2"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI.woff",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI.woff",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI.woff",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI.woff"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI.woff"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\fonts\\SegoeUI.woff2",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/fonts/SegoeUI.woff2",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "fonts/SegoeUI.woff2",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\SegoeUI.woff2"
+      "OriginalItemSpec": "wwwroot/fonts/SegoeUI.woff2"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\acheivement-1.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/acheivement-1.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/acheivement-1.png",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\acheivement-1.png"
+      "OriginalItemSpec": "wwwroot/img/acheivement-1.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\acheivement-2.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/acheivement-2.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/acheivement-2.png",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\acheivement-2.png"
+      "OriginalItemSpec": "wwwroot/img/acheivement-2.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\acheivement-3.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/acheivement-3.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/acheivement-3.png",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\acheivement-3.png"
+      "OriginalItemSpec": "wwwroot/img/acheivement-3.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\acheivement-4.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/acheivement-4.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/acheivement-4.png",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\acheivement-4.png"
+      "OriginalItemSpec": "wwwroot/img/acheivement-4.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\acheivement-5.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/acheivement-5.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/acheivement-5.png",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\acheivement-5.png"
+      "OriginalItemSpec": "wwwroot/img/acheivement-5.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\activities-1.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/activities-1.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/activities-1.png",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\activities-1.png"
+      "OriginalItemSpec": "wwwroot/img/activities-1.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\activities-2.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/activities-2.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/activities-2.png",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\activities-2.png"
+      "OriginalItemSpec": "wwwroot/img/activities-2.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\activity-1.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/activity-1.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/activity-1.jpg",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\activity-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/activity-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\activity-2.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/activity-2.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/activity-2.jpg",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\activity-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/activity-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\Badge 1.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/Badge 1.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/Badge 1.png",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Badge 1.png"
+      "OriginalItemSpec": "wwwroot/img/Badge 1.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\Badge 2.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/Badge 2.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/Badge 2.png",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Badge 2.png"
+      "OriginalItemSpec": "wwwroot/img/Badge 2.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\Badge 3.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/Badge 3.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/Badge 3.png",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Badge 3.png"
+      "OriginalItemSpec": "wwwroot/img/Badge 3.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\badge-1.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/badge-1.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/badge-1.png",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\badge-1.png"
+      "OriginalItemSpec": "wwwroot/img/badge-1.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\badge-2.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/badge-2.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/badge-2.png",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\badge-2.png"
+      "OriginalItemSpec": "wwwroot/img/badge-2.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\badge-3.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/badge-3.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/badge-3.png",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\badge-3.png"
+      "OriginalItemSpec": "wwwroot/img/badge-3.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\bg-first-screen.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/bg-first-screen.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/bg-first-screen.jpg",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\bg-first-screen.jpg"
+      "OriginalItemSpec": "wwwroot/img/bg-first-screen.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\c0.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/c0.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/c0.jpg",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\c0.jpg"
+      "OriginalItemSpec": "wwwroot/img/c0.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\c1.jpeg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/c1.jpeg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/c1.jpeg",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\c1.jpeg"
+      "OriginalItemSpec": "wwwroot/img/c1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\c2.jpeg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/c2.jpeg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/c2.jpeg",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\c2.jpeg"
+      "OriginalItemSpec": "wwwroot/img/c2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\c3.jpeg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/c3.jpeg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/c3.jpeg",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\c3.jpeg"
+      "OriginalItemSpec": "wwwroot/img/c3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\c4.jpeg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/c4.jpeg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/c4.jpeg",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\c4.jpeg"
+      "OriginalItemSpec": "wwwroot/img/c4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\c5.jpeg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/c5.jpeg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/c5.jpeg",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\c5.jpeg"
+      "OriginalItemSpec": "wwwroot/img/c5.jpeg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\community-item-1.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/community-item-1.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/community-item-1.jpg",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\community-item-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/community-item-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\community-item-2.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/community-item-2.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/community-item-2.jpg",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\community-item-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/community-item-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\community-item-3.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/community-item-3.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/community-item-3.jpg",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\community-item-3.jpg"
+      "OriginalItemSpec": "wwwroot/img/community-item-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\community-item-4.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/community-item-4.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/community-item-4.jpg",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\community-item-4.jpg"
+      "OriginalItemSpec": "wwwroot/img/community-item-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\community-item-5.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/community-item-5.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/community-item-5.jpg",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\community-item-5.jpg"
+      "OriginalItemSpec": "wwwroot/img/community-item-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\cv.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/cv.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/cv.jpg",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\cv.jpg"
+      "OriginalItemSpec": "wwwroot/img/cv.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\favicon.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/favicon.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\favicon.png"
+      "OriginalItemSpec": "wwwroot/img/favicon.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-1.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-1.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-1.jpg",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-1.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-1.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-1.png",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-1.png"
+      "OriginalItemSpec": "wwwroot/img/game-1.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-10.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-10.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-10.jpg",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-10.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-11.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-11.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-11.jpg",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-11.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-12.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-12.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-12.jpg",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-12.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-2.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-2.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-2.jpg",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-2.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-2.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-2.png",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-2.png"
+      "OriginalItemSpec": "wwwroot/img/game-2.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-3.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-3.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-3.jpg",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-3.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-3.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-3.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-3.png",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-3.png"
+      "OriginalItemSpec": "wwwroot/img/game-3.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-4.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-4.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-4.jpg",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-4.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-4.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-4.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-4.png",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-4.png"
+      "OriginalItemSpec": "wwwroot/img/game-4.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-5.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-5.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-5.jpg",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-5.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-6.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-6.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-6.jpg",
       "AssetKind": "All",
@@ -1249,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-6.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-7.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-7.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-7.jpg",
       "AssetKind": "All",
@@ -1268,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-7.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-8.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-8.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-8.jpg",
       "AssetKind": "All",
@@ -1287,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-8.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-9.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-9.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-9.jpg",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-9.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\game-profile-card.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/game-profile-card.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/game-profile-card.jpg",
       "AssetKind": "All",
@@ -1325,13 +1325,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\game-profile-card.jpg"
+      "OriginalItemSpec": "wwwroot/img/game-profile-card.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\hunt-showdown.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/hunt-showdown.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/hunt-showdown.jpg",
       "AssetKind": "All",
@@ -1344,13 +1344,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\hunt-showdown.jpg"
+      "OriginalItemSpec": "wwwroot/img/hunt-showdown.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\logo.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/logo.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -1363,13 +1363,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logo.png"
+      "OriginalItemSpec": "wwwroot/img/logo.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\mac.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/mac.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/mac.png",
       "AssetKind": "All",
@@ -1382,13 +1382,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\mac.png"
+      "OriginalItemSpec": "wwwroot/img/mac.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\market-item-1.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/market-item-1.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/market-item-1.jpg",
       "AssetKind": "All",
@@ -1401,13 +1401,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\market-item-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/market-item-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\market-item-2.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/market-item-2.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/market-item-2.jpg",
       "AssetKind": "All",
@@ -1420,13 +1420,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\market-item-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/market-item-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\market-item-3.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/market-item-3.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/market-item-3.jpg",
       "AssetKind": "All",
@@ -1439,13 +1439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\market-item-3.jpg"
+      "OriginalItemSpec": "wwwroot/img/market-item-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\market-item-4.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/market-item-4.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/market-item-4.jpg",
       "AssetKind": "All",
@@ -1458,13 +1458,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\market-item-4.jpg"
+      "OriginalItemSpec": "wwwroot/img/market-item-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\profile.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/profile.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/profile.png",
       "AssetKind": "All",
@@ -1477,13 +1477,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\profile.png"
+      "OriginalItemSpec": "wwwroot/img/profile.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\pubg.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/pubg.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/pubg.jpg",
       "AssetKind": "All",
@@ -1496,13 +1496,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pubg.jpg"
+      "OriginalItemSpec": "wwwroot/img/pubg.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\recommend-slide-img.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/recommend-slide-img.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/recommend-slide-img.png",
       "AssetKind": "All",
@@ -1515,13 +1515,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\recommend-slide-img.png"
+      "OriginalItemSpec": "wwwroot/img/recommend-slide-img.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\recommend-slide-logo.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/recommend-slide-logo.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/recommend-slide-logo.png",
       "AssetKind": "All",
@@ -1534,13 +1534,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\recommend-slide-logo.png"
+      "OriginalItemSpec": "wwwroot/img/recommend-slide-logo.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-1.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-1.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-1.jpg",
       "AssetKind": "All",
@@ -1553,13 +1553,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-1.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-10.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-10.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-10.jpg",
       "AssetKind": "All",
@@ -1572,13 +1572,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-10.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-11.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-11.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-11.jpg",
       "AssetKind": "All",
@@ -1591,13 +1591,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-11.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-12.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-12.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-12.jpg",
       "AssetKind": "All",
@@ -1610,13 +1610,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-12.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-2.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-2.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-2.jpg",
       "AssetKind": "All",
@@ -1629,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-2.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-3.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-3.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-3.jpg",
       "AssetKind": "All",
@@ -1648,13 +1648,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-3.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-4.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-4.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-4.jpg",
       "AssetKind": "All",
@@ -1667,13 +1667,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-4.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-5.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-5.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-5.jpg",
       "AssetKind": "All",
@@ -1686,13 +1686,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-5.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-6.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-6.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-6.jpg",
       "AssetKind": "All",
@@ -1705,13 +1705,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-6.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-7.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-7.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-7.jpg",
       "AssetKind": "All",
@@ -1724,13 +1724,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-7.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-8.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-8.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-8.jpg",
       "AssetKind": "All",
@@ -1743,13 +1743,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-8.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\streem-item-9.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/streem-item-9.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/streem-item-9.jpg",
       "AssetKind": "All",
@@ -1762,13 +1762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\streem-item-9.jpg"
+      "OriginalItemSpec": "wwwroot/img/streem-item-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\stronghold.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/stronghold.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/stronghold.jpg",
       "AssetKind": "All",
@@ -1781,13 +1781,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\stronghold.jpg"
+      "OriginalItemSpec": "wwwroot/img/stronghold.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\add-square.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/add-square.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/add-square.svg",
       "AssetKind": "All",
@@ -1800,13 +1800,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\add-square.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/add-square.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\apple.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/apple.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/apple.svg",
       "AssetKind": "All",
@@ -1819,13 +1819,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\apple.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/apple.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\arrow-circle-left.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/arrow-circle-left.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/arrow-circle-left.svg",
       "AssetKind": "All",
@@ -1838,13 +1838,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\arrow-circle-left.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/arrow-circle-left.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\arrow-circle-right.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/arrow-circle-right.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/arrow-circle-right.svg",
       "AssetKind": "All",
@@ -1857,13 +1857,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\arrow-circle-right.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/arrow-circle-right.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\attach-circle.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/attach-circle.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/attach-circle.svg",
       "AssetKind": "All",
@@ -1876,13 +1876,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\attach-circle.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/attach-circle.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\call.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/call.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/call.svg",
       "AssetKind": "All",
@@ -1895,13 +1895,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\call.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/call.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\chats.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/chats.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/chats.svg",
       "AssetKind": "All",
@@ -1914,13 +1914,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\chats.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/chats.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\clipboard-text.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/clipboard-text.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/clipboard-text.svg",
       "AssetKind": "All",
@@ -1933,13 +1933,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\clipboard-text.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/clipboard-text.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\close-circle.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/close-circle.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/close-circle.svg",
       "AssetKind": "All",
@@ -1952,13 +1952,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\close-circle.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/close-circle.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\community.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/community.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/community.svg",
       "AssetKind": "All",
@@ -1971,13 +1971,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\community.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/community.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\edit.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/edit.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/edit.svg",
       "AssetKind": "All",
@@ -1990,13 +1990,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\edit.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/edit.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\emoji-happy.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/emoji-happy.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/emoji-happy.svg",
       "AssetKind": "All",
@@ -2009,13 +2009,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\emoji-happy.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/emoji-happy.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\eye.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/eye.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/eye.svg",
       "AssetKind": "All",
@@ -2028,13 +2028,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\eye.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/eye.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\favourites.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/favourites.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/favourites.svg",
       "AssetKind": "All",
@@ -2047,13 +2047,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\favourites.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/favourites.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\friends.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/friends.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/friends.svg",
       "AssetKind": "All",
@@ -2066,13 +2066,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\friends.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/friends.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\gallery.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/gallery.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/gallery.svg",
       "AssetKind": "All",
@@ -2085,13 +2085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\gallery.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/gallery.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\help.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/help.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/help.svg",
       "AssetKind": "All",
@@ -2104,13 +2104,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\help.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/help.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\home.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/home.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/home.svg",
       "AssetKind": "All",
@@ -2123,13 +2123,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\home.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/home.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\info-circle.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/info-circle.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/info-circle.svg",
       "AssetKind": "All",
@@ -2142,13 +2142,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\info-circle.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/info-circle.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\market.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/market.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/market.svg",
       "AssetKind": "All",
@@ -2161,13 +2161,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\market.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/market.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\menu.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/menu.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/menu.svg",
       "AssetKind": "All",
@@ -2180,13 +2180,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\menu.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/menu.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\message.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/message.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/message.svg",
       "AssetKind": "All",
@@ -2199,13 +2199,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\message.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/message.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\microphone.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/microphone.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/microphone.svg",
       "AssetKind": "All",
@@ -2218,13 +2218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\microphone.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/microphone.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\more.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/more.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/more.svg",
       "AssetKind": "All",
@@ -2237,13 +2237,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\more.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/more.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\notification.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/notification.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/notification.svg",
       "AssetKind": "All",
@@ -2256,13 +2256,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\notification.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/notification.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\play-circle.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/play-circle.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/play-circle.svg",
       "AssetKind": "All",
@@ -2275,13 +2275,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\play-circle.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/play-circle.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\profile.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/profile.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/profile.svg",
       "AssetKind": "All",
@@ -2294,13 +2294,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\profile.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/profile.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\report.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/report.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/report.svg",
       "AssetKind": "All",
@@ -2313,13 +2313,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\report.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/report.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\search.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/search.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/search.svg",
       "AssetKind": "All",
@@ -2332,13 +2332,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\search.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/search.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\shopping-cart.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/shopping-cart.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/shopping-cart.svg",
       "AssetKind": "All",
@@ -2351,13 +2351,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\shopping-cart.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/shopping-cart.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\star.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/star.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/star.svg",
       "AssetKind": "All",
@@ -2370,13 +2370,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\star.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/star.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\store.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/store.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/store.svg",
       "AssetKind": "All",
@@ -2389,13 +2389,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\store.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/store.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\streams.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/streams.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/streams.svg",
       "AssetKind": "All",
@@ -2408,13 +2408,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\streams.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/streams.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\tick-circle.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/tick-circle.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/tick-circle.svg",
       "AssetKind": "All",
@@ -2427,13 +2427,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\tick-circle.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/tick-circle.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\trash.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/trash.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/trash.svg",
       "AssetKind": "All",
@@ -2446,13 +2446,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\trash.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/trash.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\video-circle.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/video-circle.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/video-circle.svg",
       "AssetKind": "All",
@@ -2465,13 +2465,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\video-circle.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/video-circle.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\wallet.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/wallet.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/wallet.svg",
       "AssetKind": "All",
@@ -2484,13 +2484,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\wallet.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/wallet.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\svgico\\windows.svg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/svgico/windows.svg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/svgico/windows.svg",
       "AssetKind": "All",
@@ -2503,13 +2503,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\svgico\\windows.svg"
+      "OriginalItemSpec": "wwwroot/img/svgico/windows.svg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\total-war.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/total-war.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/total-war.jpg",
       "AssetKind": "All",
@@ -2522,13 +2522,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\total-war.jpg"
+      "OriginalItemSpec": "wwwroot/img/total-war.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\trending.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/trending.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/trending.jpg",
       "AssetKind": "All",
@@ -2541,13 +2541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\trending.jpg"
+      "OriginalItemSpec": "wwwroot/img/trending.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-1.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-1.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-1.png",
       "AssetKind": "All",
@@ -2560,13 +2560,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-1.png"
+      "OriginalItemSpec": "wwwroot/img/user-1.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-2.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-2.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-2.png",
       "AssetKind": "All",
@@ -2579,13 +2579,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-2.png"
+      "OriginalItemSpec": "wwwroot/img/user-2.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-3.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-3.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-3.png",
       "AssetKind": "All",
@@ -2598,13 +2598,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-3.png"
+      "OriginalItemSpec": "wwwroot/img/user-3.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-4.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-4.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-4.png",
       "AssetKind": "All",
@@ -2617,13 +2617,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-4.png"
+      "OriginalItemSpec": "wwwroot/img/user-4.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-1.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-1.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-1.png",
       "AssetKind": "All",
@@ -2636,13 +2636,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-1.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-1.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-10.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-10.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-10.png",
       "AssetKind": "All",
@@ -2655,13 +2655,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-10.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-10.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-11.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-11.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-11.png",
       "AssetKind": "All",
@@ -2674,13 +2674,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-11.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-11.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-12.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-12.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-12.png",
       "AssetKind": "All",
@@ -2693,13 +2693,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-12.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-12.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-2.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-2.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-2.png",
       "AssetKind": "All",
@@ -2712,13 +2712,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-2.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-2.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-3.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-3.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-3.png",
       "AssetKind": "All",
@@ -2731,13 +2731,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-3.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-3.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-4.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-4.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-4.png",
       "AssetKind": "All",
@@ -2750,13 +2750,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-4.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-4.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-5.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-5.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-5.png",
       "AssetKind": "All",
@@ -2769,13 +2769,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-5.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-5.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-6.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-6.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-6.png",
       "AssetKind": "All",
@@ -2788,13 +2788,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-6.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-6.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-7.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-7.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-7.png",
       "AssetKind": "All",
@@ -2807,13 +2807,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-7.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-7.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-8.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-8.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-8.png",
       "AssetKind": "All",
@@ -2826,13 +2826,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-8.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-8.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\img\\user-list-9.png",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/img/user-list-9.png",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "img/user-list-9.png",
       "AssetKind": "All",
@@ -2845,13 +2845,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user-list-9.png"
+      "OriginalItemSpec": "wwwroot/img/user-list-9.png"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\js\\flv.min.js",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/js/flv.min.js",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "js/flv.min.js",
       "AssetKind": "All",
@@ -2864,13 +2864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\flv.min.js"
+      "OriginalItemSpec": "wwwroot/js/flv.min.js"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\js\\libs.js",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/js/libs.js",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "js/libs.js",
       "AssetKind": "All",
@@ -2883,13 +2883,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\libs.js"
+      "OriginalItemSpec": "wwwroot/js/libs.js"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\js\\main.js",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/js/main.js",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -2902,13 +2902,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\main.js"
+      "OriginalItemSpec": "wwwroot/js/main.js"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\01_log-In.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/01_log-In.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/01_log-In.jpg",
       "AssetKind": "All",
@@ -2921,13 +2921,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\01_log-In.jpg"
+      "OriginalItemSpec": "wwwroot/preview/01_log-In.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\02_register.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/02_register.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/02_register.jpg",
       "AssetKind": "All",
@@ -2940,13 +2940,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\02_register.jpg"
+      "OriginalItemSpec": "wwwroot/preview/02_register.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\03_home.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/03_home.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/03_home.jpg",
       "AssetKind": "All",
@@ -2959,13 +2959,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\03_home.jpg"
+      "OriginalItemSpec": "wwwroot/preview/03_home.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\04_profile.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/04_profile.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/04_profile.jpg",
       "AssetKind": "All",
@@ -2978,13 +2978,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\04_profile.jpg"
+      "OriginalItemSpec": "wwwroot/preview/04_profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\05_favourites.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/05_favourites.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/05_favourites.jpg",
       "AssetKind": "All",
@@ -2997,13 +2997,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\05_favourites.jpg"
+      "OriginalItemSpec": "wwwroot/preview/05_favourites.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\06_chats.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/06_chats.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/06_chats.jpg",
       "AssetKind": "All",
@@ -3016,13 +3016,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\06_chats.jpg"
+      "OriginalItemSpec": "wwwroot/preview/06_chats.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\07_friends.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/07_friends.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/07_friends.jpg",
       "AssetKind": "All",
@@ -3035,13 +3035,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\07_friends.jpg"
+      "OriginalItemSpec": "wwwroot/preview/07_friends.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\08_wallet.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/08_wallet.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/08_wallet.jpg",
       "AssetKind": "All",
@@ -3054,13 +3054,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\08_wallet.jpg"
+      "OriginalItemSpec": "wwwroot/preview/08_wallet.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\09_games-store.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/09_games-store.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/09_games-store.jpg",
       "AssetKind": "All",
@@ -3073,13 +3073,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\09_games-store.jpg"
+      "OriginalItemSpec": "wwwroot/preview/09_games-store.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\10_game-profile.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/10_game-profile.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/10_game-profile.jpg",
       "AssetKind": "All",
@@ -3092,13 +3092,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\10_game-profile.jpg"
+      "OriginalItemSpec": "wwwroot/preview/10_game-profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\11_market.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/11_market.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/11_market.jpg",
       "AssetKind": "All",
@@ -3111,13 +3111,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\11_market.jpg"
+      "OriginalItemSpec": "wwwroot/preview/11_market.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\12_streams.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/12_streams.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/12_streams.jpg",
       "AssetKind": "All",
@@ -3130,13 +3130,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\12_streams.jpg"
+      "OriginalItemSpec": "wwwroot/preview/12_streams.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\13_community.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/13_community.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/13_community.jpg",
       "AssetKind": "All",
@@ -3149,13 +3149,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\13_community.jpg"
+      "OriginalItemSpec": "wwwroot/preview/13_community.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\14_report.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/14_report.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/14_report.jpg",
       "AssetKind": "All",
@@ -3168,13 +3168,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\14_report.jpg"
+      "OriginalItemSpec": "wwwroot/preview/14_report.jpg"
     },
     {
-      "Identity": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\preview\\15_help.jpg",
+      "Identity": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/preview/15_help.jpg",
       "SourceId": "TeamHost",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork6\\TeamHost\\wwwroot\\",
+      "ContentRoot": "/home/nikita/HW_ORIS_2SEM/HW6/TeamHost/wwwroot/",
       "BasePath": "_content/TeamHost",
       "RelativePath": "preview/15_help.jpg",
       "AssetKind": "All",
@@ -3187,7 +3187,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\preview\\15_help.jpg"
+      "OriginalItemSpec": "wwwroot/preview/15_help.jpg"
     }
   ]
 }

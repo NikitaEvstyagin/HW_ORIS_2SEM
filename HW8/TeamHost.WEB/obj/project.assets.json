@@ -3138,37 +3138,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gafar\\.nuget\\packages\\": {}
+    "/home/nikita/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork8\\TeamHost.WEB\\TeamHost.WEB.csproj",
+      "projectUniqueName": "/home/nikita/HW_ORIS_2SEM/HW8/TeamHost.WEB/TeamHost.WEB.csproj",
       "projectName": "TeamHost.WEB",
-      "projectPath": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork8\\TeamHost.WEB\\TeamHost.WEB.csproj",
-      "packagesPath": "C:\\Users\\gafar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork8\\TeamHost.WEB\\obj\\",
+      "projectPath": "/home/nikita/HW_ORIS_2SEM/HW8/TeamHost.WEB/TeamHost.WEB.csproj",
+      "packagesPath": "/home/nikita/.nuget/packages/",
+      "outputPath": "/home/nikita/HW_ORIS_2SEM/HW8/TeamHost.WEB/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/nikita/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork8\\TeamHost.Infrastructure\\TeamHost.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork8\\TeamHost.Infrastructure\\TeamHost.Infrastructure.csproj"
+            "/home/nikita/HW_ORIS_2SEM/HW8/TeamHost.Infrastructure/TeamHost.Infrastructure.csproj": {
+              "projectPath": "/home/nikita/HW_ORIS_2SEM/HW8/TeamHost.Infrastructure/TeamHost.Infrastructure.csproj"
             },
-            "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork8\\TeamHost.Persistence\\TeamHost.Persistence.csproj": {
-              "projectPath": "C:\\Users\\gafar\\source\\fuz1kort\\ITIS2.2\\HomeWork8\\TeamHost.Persistence\\TeamHost.Persistence.csproj"
+            "/home/nikita/HW_ORIS_2SEM/HW8/TeamHost.Persistence/TeamHost.Persistence.csproj": {
+              "projectPath": "/home/nikita/HW_ORIS_2SEM/HW8/TeamHost.Persistence/TeamHost.Persistence.csproj"
             }
           }
         }
@@ -3241,19 +3239,7 @@
         "warn": true,
         "downloadDependencies": [
           {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
             "version": "[7.0.17, 7.0.17]"
           }
         ],
@@ -3265,7 +3251,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
       }
     }
   },
